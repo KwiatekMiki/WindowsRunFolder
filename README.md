@@ -3,8 +3,8 @@
 ## What?
 idk
 ## What file names mean?
-Run.{x} - Folder
-OpenRun.bat - Special program
+- Run.{x} - Folder
+- OpenRun.bat - Special program
 ## Why use?
 You can't open it normally. YOU CAN HIDE UR FILES!!1
 ## How to open it?
@@ -18,8 +18,8 @@ It's using subst command to assign this "Run" Folder as O: drive or to unassign 
 ## Co?
 nwm
 ## Co znaczą nazwy plików?
-Run.{x} - Folder
-OpenRun.bat - Specjany program
+- Run.{x} - Folder
+- OpenRun.bat - Specjany program
 ## Czemu użyć?
 Nie możesz tego otworzyć normalnie. MOŻESZ UKRYĆ SFOJE PLIKI!!1
 ## Jak to otworzyć?
